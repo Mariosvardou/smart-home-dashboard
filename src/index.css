@@ -1,0 +1,10 @@
+* {
+  overflow: visible !important;
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  
